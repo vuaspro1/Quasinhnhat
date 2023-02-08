@@ -32,7 +32,7 @@
   -webkit-filter: blur(4px);
 }
 
-.img {
+/* .img {
   position: absolute;
   margin-top: 80px;
   margin-bottom: 20px;
@@ -51,7 +51,7 @@
 
 .h {
   height: 300px;
-}
+} */
 
 .swal2-image{
   object-fit: contain;
