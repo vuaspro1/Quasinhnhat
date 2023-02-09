@@ -1,6 +1,7 @@
 const CONFIG = {
-    introTitle: 'Chúc mừng sinh nhật Sữa nha!',
-    introDesc: `Chúc em qua tuổi mới càng ngày càng xinh đẹp và học giỏi nha 🎉🎁`,
+    introTitle: 'Chúc mừng sinh nhật Sữa!',
+    introDesc: `Chúc em qua tuổi mới càng ngày càng xinh đẹp và học giỏi nha 🎉🎁
+    (Tiện thể, chúc em thi tốt nha! Fighting)`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu em ngay từ cái nhìn đầu tiên 😍',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
