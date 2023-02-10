@@ -7,7 +7,7 @@ function firstQuestion(){
         imageUrl: 'img/1.jpg',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("../img/iput-bg.jpg")',
+        background: '#fff url("img/iput-bg.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
